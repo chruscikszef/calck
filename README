@@ -1,0 +1,15 @@
+# Kalkulator Kurwa
+
+Kalkulator Kurwa is open-source calculator
+
+## Installation
+$ make 
+$ make install 
+
+## Usage
+$ calck
+
+## Dependecies
+make, C compiler
+
+
