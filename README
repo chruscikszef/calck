@@ -1,15 +1,40 @@
 # Kalkulator Kurwa
 
-Kalkulator Kurwa is open-source calculator
+English:
+
+Kalkulator Kurwa is open-source calculator written in C
 
 ## Installation
-$ make 
-$ make install 
+$ git clone https://github.com/chruscikszef/calck/calck.git
+$ cd calck
+$ make
+$ sudo make install
 
 ## Usage
 $ calck
 
 ## Dependecies
-make, C compiler
+make, gcc
 
+## Supported operating systems
+macOS, GNU/Linux, FreeBSD, NetBSD, OpenBSD, Solaris, UNIX
+
+Polski:
+
+Kalkulator kurwa to otwartoźródłowy kalkulator napisany w C
+
+## Instalacja 
+$ git clone https://github.com/chruscikszef/calck/calck.git
+$ cd calck
+$ make
+$ sudo make install
+
+## Użycie
+$  calck
+
+## Zależności
+make, gcc
+
+## Wspierane systemy operacyjne
+macOS, GNU/Linux, FreeBSD, NetBSD, OpenBSD, Solaris, UNIX
 
