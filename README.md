@@ -9,7 +9,7 @@ $ git clone https://github.com/chruscikszef/calck.git
 
 $ cd calck
 
-$ make
+$ make (or "make win" to compile for Windows (requires x86_64-w64-mingw32-gcc))
 
 $ make install
 
@@ -25,7 +25,7 @@ $ git clone https://github.com/chruscikszef/calck/calck.git
 
 $ cd calck
 
-$ make
+$ make (lub "make win" by skompilować dla Windowsa (wymaga x86_64-w64-mingw32-gcc))
 
 $ make install
 

@@ -4,3 +4,6 @@
 - Added english language
 # [v1.1.1]
 - Fixed some bugs
+# [v1.2]
+- Fixed some bugs
+- Fixed part of code, which wasn't working properly on Windows
