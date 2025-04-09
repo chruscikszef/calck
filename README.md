@@ -1,4 +1,4 @@
-### Kalkulator Kurwa
+# Kalkulator Kurwa
 
 # English: 
 
