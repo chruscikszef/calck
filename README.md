@@ -5,7 +5,7 @@
 An open-source calculator written in C
 
 ## Installation 
-$ git clone https://github.com/chruscikszef/calck/calck.git
+$ git clone https://github.com/chruscikszef/calck.git
 
 $ cd calck
 
