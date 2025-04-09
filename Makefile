@@ -1,6 +1,6 @@
-TARGET = calck
+TARGET = src/calck
 CC = gcc
-SRC = main.c
+SRC = src/main.c
 CFLAGS = -Wint-conversion
 
 all: $(TARGET)
@@ -11,7 +11,7 @@ clean:
 	rm -f $(TARGET) 
 
 install:
-	cp -f $(TARGET) /usr/bin
+	sudo cp -f $(TARGET) /usr/bin
 
 remove:
-	rm -f /usr/bin/$(TARGET)
+	sudo rm -f /usr/bin/$(TARGET)
