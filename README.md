@@ -14,7 +14,7 @@ $ make
 $ make install
 
 ## Supported operating systems
-macOS, GNU/Linux, FreeBSD, OpenBSD, NetBSD, Solaris, UNIX
+macOS, GNU/Linux, FreeBSD, OpenBSD, NetBSD, Solaris, UNIX, Windows
 
 # Polski:
 
@@ -30,6 +30,6 @@ $ make
 $ make install
 
 ## Wspierane systemy operacyjne
-macOS, GNU/LINUX, FreeBSD, OpenBSD, NetBSD, Solaris, UNIX
+macOS, GNU/LINUX, FreeBSD, OpenBSD, NetBSD, Solaris, UNIX, Windows
 
 
