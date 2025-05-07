@@ -11,7 +11,7 @@ $ cd calck
 
 $ make (or "make win" to compile for Windows (requires x86_64-w64-mingw32-gcc))
 
-$ make install
+$ sudo make install
 
 ## Supported operating systems
 macOS, GNU/Linux, FreeBSD, OpenBSD, NetBSD, Solaris, UNIX, Windows
@@ -27,7 +27,7 @@ $ cd calck
 
 $ make (lub "make win" by skompilować dla Windowsa (wymaga x86_64-w64-mingw32-gcc))
 
-$ make install
+$ sudo make install
 
 ## Wspierane systemy operacyjne
 macOS, GNU/LINUX, FreeBSD, OpenBSD, NetBSD, Solaris, UNIX, Windows
